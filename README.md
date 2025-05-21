@@ -1,8 +1,9 @@
 # जंगम्(Jangam)
 
-Aren't you क्लान्तः from writing Rust programs in English? Do you like saying
-"शित्" a lot? Would you like to try something different, in an exotic and
-funny-sounding language? Would you want to bring some Sanskrit touch to your
+Aren't you क्लान्तः from writing Rust programs in English? 
+Would you like to try something different, in an exotic and
+funny-sounding language? 
+Would you want to bring some Sanskrit touch to your
 programs?
 
 **jangam** (Sanskrit for _Rust_) is here to save your day, as it allows you to
